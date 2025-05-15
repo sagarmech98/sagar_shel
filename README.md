@@ -7,5 +7,4 @@ Session 10 :
   - prod
 ```
 
-`names for ip address can be possible with DNS
-Dns naming convention uses dev, qa, like cataloue-dev etc.`
+`names for ip address can be possible with DNS ,Dns naming convention uses dev, qa, like cataloue-dev etc.`
